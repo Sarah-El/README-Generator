@@ -71,7 +71,7 @@ function init() {
     inquirer.prompt(questions).then((userResponses)=> {
         console.log('userResponses= ', userResponses);
         let readMeString = generateMarkdown(userResponses);
-        writeToFile('generatedReadMe.md', readMeString);
+        writeToFile('README.md', readMeString);
     })
 
 }
