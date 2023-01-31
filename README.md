@@ -6,13 +6,13 @@
   This project is designed to support users to quickly and easily create a README file by using a command-line application. Using the users input, the README Generator will produce a professional README.md file using the Inquirer Package.
 
   ## Table of Contents
-  * [Description] (#description)
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  * [Licence] (#license)
-  * [Contributing] (#contributing)
-  * [Tests] (#testing)
-  * [Questions] (#questions)
+  [Description] (#description)
+  [Installation] (#installation)
+  [Usage] (#usage)
+  [Licence] (#license)
+  [Contributing] (#contributing)
+  [Tests] (#testing)
+  [Questions] (#questions)
 
   ## Description
   This project is designed to support users to quickly and easily create a README file by using a command-line application. Using the users input, the README Generator will produce a professional README.md file using the Inquirer Package.
