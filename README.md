@@ -21,7 +21,7 @@
   To install this project, please clone the repository and install Node JS.
 
   ## Usage
-  This project is designed to be used to generate a README file quickly and easily using user input.
+  This project is designed to be used to generate a README file quickly and easily using user input. To see a demo of how this is used, [click here](https://drive.google.com/file/d/1uXz1AKh1MobeTbWKg_NCA6cLhef3AuJt/view?usp=share_link)
 
   ## License
   This project uses the following license MIT
