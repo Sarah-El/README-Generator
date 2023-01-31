@@ -1,5 +1,5 @@
 const fs = require("fs");
-const path = require('path');
+// const path = require('path');
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
@@ -73,7 +73,6 @@ function init() {
         let readMeString = generateMarkdown(userResponses);
         writeToFile('README.md', readMeString);
     })
-
 }
 
 // function call to initialize program
