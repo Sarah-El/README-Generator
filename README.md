@@ -1,33 +1,33 @@
-# README Generator
+# Workday Scheduler
 
-  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+  ![Github licence](http://img.shields.io/badge/license-None-blue.svg)
 
   ## Description
-  This project is designed to support users to quickly and easily create a README file by using a command-line application. Using the users input, the README Generator will produce a professional README.md file using the Inquirer Package.
+  this project is a daily workday scheduler designed to keep track of meetings during the standard working hours.
 
   ## Table of Contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Licence](#license)
-  * [Contributing](#contributing)
-  * [Tests](#testing)
-  * [Questions](#questions)
+  * [Description] (#description)
+  * [Installation] (#installation)
+  * [Usage] (#usage)
+  * [Licence] (#license)
+  * [Contributing] (#contributing)
+  * [Tests] (#testing)
+  * [Questions] (#questions)
 
   ## Description
-  This project is designed to support users to quickly and easily create a README file by using a command-line application. Using the users input, the README Generator will produce a professional README.md file using the Inquirer Package.
+  this project is a daily workday scheduler designed to keep track of meetings during the standard working hours.
 
   ## Installation
-  To install this project, please clone the repository and install Node JS.
+  N/A
 
   ## Usage
-  This project is designed to be used to generate a README file quickly and easily using user input. To see a demo of how this is used, [click here](https://drive.google.com/file/d/1uXz1AKh1MobeTbWKg_NCA6cLhef3AuJt/view?usp=share_link).
+  The application should be used to schedule timings and appointmemts during working hours and days. You can click on each hours text area to input information and click the 'save' button to save this to your schedule. 
 
   ## License
-  This project uses the following license MIT
+  This project uses the following license None
 
   ## Contributing
-  Shields.io was used to create license badges. If you would like to contribute further to this project, please contact me using one of the methods below.
+  N/A
 
   ## Tests
   N/A
