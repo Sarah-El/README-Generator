@@ -35,5 +35,5 @@
   ## Questions
   For questions about this application please reach out to me using one of the following methods:
 
-  GitHub: Sarah-El
+  GitHub: [https://github.com/sarah-el](https://github.com/sarah-el)
   Email: sarahlosbourne@gmail.com

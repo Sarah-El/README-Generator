@@ -37,7 +37,7 @@ function generateMarkdown(data) {
   ## Questions
   For questions about this application please reach out to me using one of the following methods:
 
-  GitHub: ${data.github}
+  GitHub: [https://github.com/${data.GitHub}](https://github.com/${data.GitHub})
   Email: ${data.email}
 `;
 }
