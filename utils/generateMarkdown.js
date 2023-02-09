@@ -27,6 +27,7 @@ function generateMarkdown(data) {
 
   ## License
   This project uses the following license ${data.license}
+  ![Github licence](http://img.shields.io/badge/license-${data.license}-blue.svg)
 
   ## Contributing
   ${data.contributing}

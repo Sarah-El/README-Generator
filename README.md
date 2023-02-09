@@ -25,6 +25,7 @@
 
   ## License
   This project uses the following license MIT
+    ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Contributing
   Shields.io was used to create license badges. If you would like to contribute further to this project, please contact me using one of the methods below.
